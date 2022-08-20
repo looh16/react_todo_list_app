@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians
+# Todo-List App
 
->simple calculator.
+>You can add, delete, submit and edit to-do list.
 
 
 ## Built With
@@ -16,7 +16,7 @@ To get a local copy up and running follow these simple example steps.
 Any kind of browser. 
 
 ### Setup:
-    1. Clone the repository (git clone https://github.com/looh16/math_magicians)
+    1. Clone the repository (git clone https://github.com/looh16/react_todo_list_app)
     2. Then open the folder in your local environment 
     3. In terminal console run:
        - npm install
@@ -24,16 +24,13 @@ Any kind of browser.
 
 # Live Demo:
 
-### Heroku 
-https://magicians-math-app.herokuapp.com/
-
 ### Netlify
-https://magicians-math-app.netlify.app/
+https://list-todo-tasks.netlify.app/
 
 
 ## 👤 **Author**
 
-- GitHub: https://github.com/looh16/Hello-Microverse
+- GitHub: https://github.com/looh16
 - Twitter: https://twitter.com/custodiolanga1
 - LinkedIn: https://www.linkedin.com/in/custodio-serafim-2a318a23a
 
