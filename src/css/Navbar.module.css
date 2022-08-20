@@ -1,0 +1,15 @@
+.navBar {
+  display: flex;
+  justify-content: start;
+  align-items: flex-start;
+  margin-right: 2rem;
+}
+
+.menu {
+  display: inline-flex;
+  list-style-type: none;
+}
+
+.menu li {
+  padding: 10px;
+}
